@@ -17,7 +17,7 @@ pip install -r requirements.txt
 cd notebooks && jupyter notebook "Fleet Calculator.ipynb"
 ```
 
-Click on the **Cell** dropdown in the toolbar above and select **Run All** to run all cells and generate outputs.
+Click on the **Cell** dropdown in notebook's toolbar and select **Run All** to run all cells and generate outputs.
 
 ### Configure notebook settings
 The first cell lets you configure Calculator settings
