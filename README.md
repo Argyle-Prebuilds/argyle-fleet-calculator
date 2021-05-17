@@ -12,7 +12,7 @@
 <img width="1526" alt="image" src="https://user-images.githubusercontent.com/22115481/118556318-eda1ae80-b78d-11eb-94cc-ab31333e4181.png">
 
 #### Period Time Breakdown
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/22115481/118556773-7587b880-b78e-11eb-8748-910b39df3709.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/22115481/118556773-7587b880-b78e-11eb-8748-910b39df3709.png">
 
 
 ### Overview
