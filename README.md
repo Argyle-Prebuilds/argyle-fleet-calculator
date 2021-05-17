@@ -6,13 +6,13 @@
 <img width="1608" alt="image" src="https://user-images.githubusercontent.com/22115481/118556010-926fbc00-b78d-11eb-8108-710cd9346180.png">
 
 #### Insurance Periods by Month/Year
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/22115481/118556253-d82c8480-b78d-11eb-8149-978cd5f671da.png">
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/22115481/118556253-d82c8480-b78d-11eb-8149-978cd5f671da.png">
 
 #### Insurance Periods by Activity Type
 <img width="1526" alt="image" src="https://user-images.githubusercontent.com/22115481/118556318-eda1ae80-b78d-11eb-94cc-ab31333e4181.png">
 
 #### Period Time Breakdown
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/22115481/118555222-a23ad080-b78c-11eb-9e53-ccb9ec4aa887.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/22115481/118556773-7587b880-b78e-11eb-8748-910b39df3709.png">
 
 
 ### Overview
