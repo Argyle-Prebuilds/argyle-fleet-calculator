@@ -3,13 +3,13 @@
 ### Demo
 
 #### Insurance Periods by Activity ([Argyle Activities API](https://argyle.com/docs/api-reference/activities))
-<img width="1590" alt="image" src="https://user-images.githubusercontent.com/22115481/118552547-46bb1380-b789-11eb-8ff4-35c9c03be86a.png">
+<img width="1608" alt="image" src="https://user-images.githubusercontent.com/22115481/118556010-926fbc00-b78d-11eb-8108-710cd9346180.png">
 
 #### Insurance Periods by Month/Year
-<img width="913" alt="image" src="https://user-images.githubusercontent.com/22115481/118552749-8a158200-b789-11eb-8582-f97ddd0c5538.png">
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/22115481/118556253-d82c8480-b78d-11eb-8149-978cd5f671da.png">
 
 #### Insurance Periods by Activity Type
-<img width="1566" alt="image" src="https://user-images.githubusercontent.com/22115481/118553253-48d1a200-b78a-11eb-911e-f1ab96630b99.png">
+<img width="1526" alt="image" src="https://user-images.githubusercontent.com/22115481/118556318-eda1ae80-b78d-11eb-94cc-ab31333e4181.png">
 
 #### Period Time Breakdown
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/22115481/118555222-a23ad080-b78c-11eb-9e53-ccb9ec4aa887.png">
