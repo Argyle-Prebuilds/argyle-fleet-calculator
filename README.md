@@ -1,19 +1,8 @@
 # Argyle Fleet Calculator
 
-### Demo
+<img width="1396" alt="image" src="https://user-images.githubusercontent.com/22115481/118875328-1d7bbe00-b916-11eb-90fd-7b0d8526bcc1.png">
 
-#### Insurance Periods by Activity ([Argyle Activities API](https://argyle.com/docs/api-reference/activities))
-<img width="1608" alt="image" src="https://user-images.githubusercontent.com/22115481/118556010-926fbc00-b78d-11eb-8108-710cd9346180.png">
-
-#### Insurance Periods by Month/Year
-<img width="520" alt="image" src="https://user-images.githubusercontent.com/22115481/118556253-d82c8480-b78d-11eb-8149-978cd5f671da.png">
-
-#### Insurance Periods by Activity Type
-<img width="1526" alt="image" src="https://user-images.githubusercontent.com/22115481/118556318-eda1ae80-b78d-11eb-94cc-ab31333e4181.png">
-
-#### Period Time Breakdown
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/22115481/118556773-7587b880-b78e-11eb-8748-910b39df3709.png">
-
+<img width="1414" alt="image" src="https://user-images.githubusercontent.com/22115481/118875494-5320a700-b916-11eb-8376-422cf7934f38.png">
 
 ### Overview
 [This](https://github.com/Argyle-Prebuilds/fleet-calculator/blob/main/notebooks/Fleet%20Calculator.ipynb) notebook takes data from the [Argyle Activities API](https://argyle.com/docs/api-reference/activities) and delivers a breakdown of gig driver's time and distance across the following periods, for insurance purposes:
